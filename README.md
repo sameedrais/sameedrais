@@ -178,52 +178,9 @@ C++ is my language of choice for problem solving. I've solved **1,050+ problems*
 </p>
 
 <p align="center">
-  <a href="https://codeforces.com/profile/Sameed-Rais"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=Sameed-Rais&theme=tokyonight" alt="Codeforces stats card" /></a>
+  <a href="https://codeforces.com/profile/Sameed-Rais"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=Sameed-Rais&theme=tokyonight" alt="Codeforces stats card" height="270" /></a>
+  <a href="https://leetcode.com/u/sameed-rais/"><img src="https://leetcard.jacoblin.cool/sameed-rais?theme=dark&font=JetBrains_Mono&ext=heatmap" alt="LeetCode stats and submission heatmap" height="270" /></a>
 </p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/sameed-rais/"><img src="https://leetcard.jacoblin.cool/sameed-rais?theme=dark&font=JetBrains_Mono&ext=heatmap" alt="LeetCode stats and submission heatmap" /></a>
-</p>
-
----
-
-## GitHub activity
-
-<p align="center">
-  <img src="./profile/stats.svg" alt="GitHub stats" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=sameedrais&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub contribution streak" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sameedrais&theme=tokyo-night&hide_border=true&area=true&radius=10" alt="GitHub contribution graph" width="100%" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sameedrais/sameedrais/main/profile/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sameedrais/sameedrais/main/profile/snake-light.svg" />
-    <img src="https://raw.githubusercontent.com/sameedrais/sameedrais/main/profile/snake-light.svg" alt="Snake eating my contribution graph" width="100%" />
-  </picture>
-</p>
-
----
-
-## My journey so far
-
-```mermaid
-timeline
-    title Muhammad Sameed - journey so far
-    2023 : Started BS Computer Science at NED UET
-         : Began competitive programming in C++
-    2025 : ICPC Asia Topi Regional - Bronze Medal
-         : 5th place at DevDay 25, FAST-NUCES
-         : Teaching Assistant for DSA at NED CSIT
-    2026 : Huawei HCIA-Datacom certified
-         : Full-Stack Developer Intern at K-Electric
-         : SPEC 26 Winner and TechFest Runner-up x2
-         : Naqshkaar selected for incubation
-    2027 : Graduating and ready for full-time SWE roles
-```
 
 ---
 
