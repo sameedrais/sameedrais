@@ -21,8 +21,8 @@
 <table align="center">
   <tr>
     <td align="center"><b>ICPC Asia Topi</b><br/><sub>Bronze Medal</sub></td>
-    <td align="center"><b>Codeforces</b><br/><sub>Specialist</sub></td>
-    <td align="center"><b>1,100+</b><br/><sub>Problems solved</sub></td>
+    <td align="center"><b>Codeforces</b><br/><sub>Specialist · max 1461</sub></td>
+    <td align="center"><b>LeetCode</b><br/><sub>750+ solved · 1,650+ rating</sub></td>
     <td align="center"><b>3.88 / 4.0</b><br/><sub>CGPA · NED UET</sub></td>
     <td align="center"><b>HCIA-Datacom</b><br/><sub>Huawei · 900/1000</sub></td>
   </tr>
@@ -98,7 +98,7 @@ Worked on **Advisory Tracker**, an internal web platform for tracking security a
       <p><code>Python</code> <code>FastAPI</code> <code>React</code> <code>Three.js</code> <code>PostgreSQL</code> <code>Image-to-3D</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>Advisory Tracker</h3>
+      <h3><a href="https://github.com/sameedrais/advisory_tracker">Advisory Tracker</a></h3>
       <sub><b>K-Electric · Internal platform</b></sub>
       <p>Full-stack application for tracking security advisories and patch status, with role-based access, filtering, inventory and team dashboards, and automated email escalation through the company mail server.</p>
       <p><code>React</code> <code>Node.js</code> <code>Express</code> <code>PostgreSQL</code> <code>Knex.js</code> <code>JWT</code> <code>Nodemailer</code></p>
@@ -109,16 +109,18 @@ Worked on **Advisory Tracker**, an internal web platform for tracking security a
       <h3><a href="https://github.com/sameedrais/ScholarshipDAO">ScholarshipDAO</a></h3>
       <sub><b>Blockchain · Deployed on Ethereum Sepolia</b></sub>
       <p>A decentralized scholarship platform built from four contracts: an ERC-20 governance token, ERC-721 NFT certificates, a treasury and a DAO controller. It supports snapshot voting with quorum checks and automatic ETH release, protected by reentrancy guards and pause controls.</p>
-      <p><code>Solidity</code> <code>Hardhat</code> <code>OpenZeppelin</code> <code>React</code> <code>TypeScript</code> <code>Ethers.js</code></p>
+      <p><code>Solidity</code> <code>OpenZeppelin</code> <code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Ethers.js</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/sameedrais/Diabetes-Prediction-Using-Random-Forest">Diabetes Prediction System</a></h3>
-      <sub><b>Machine learning · Data structures</b></sub>
-      <p>An ML-inspired prediction system covering the full pipeline: data handling, DSA-optimized processing in C++, and a web interface that visualizes the results.</p>
-      <p><code>C++</code> <code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+      <sub><b>Machine learning from scratch · C++17</b></sub>
+      <p>Decision Tree and Random Forest classifiers written from scratch in C++ with no ML libraries, plus median imputation, SMOTE class balancing and k-fold cross-validation. A web interface makes predictions and draws the trained trees with D3.js.</p>
+      <p><code>C++</code> <code>D3.js</code> <code>JavaScript</code> <code>HTML</code> <code>CSS</code></p>
     </td>
   </tr>
 </table>
+
+<sub>More on my profile, including <a href="https://github.com/sameedrais/space-invaders-game">Space Invaders</a>, an object-oriented C++ game built with Raylib.</sub>
 
 ---
 
@@ -164,9 +166,9 @@ Worked on **Advisory Tracker**, an internal web platform for tracking security a
 
 ## Competitive programming
 
-C++ is my language of choice for problem solving. I've solved **1,100+ problems** across LeetCode and Codeforces, compete in ICPC with **Team MuFaSa**, and help run practice contests for the NED CP community.
+C++ is my language of choice for problem solving. I've solved **1,050+ problems** across LeetCode (750+) and Codeforces (290+, up to 2300 rated), compete in ICPC with **Team MuFaSa**, and help run practice contests for the NED CP community. On LeetCode I hold a **1,650+ contest rating** and the **365 Days badge** for daily practice.
 
-**Comfortable with:** dynamic programming · graphs (DFS, BFS, connected components) · number theory · binary search · two pointers and sliding window · prefix sums · Fenwick trees<br/>
+**Comfortable with:** greedy · math and number theory · constructive algorithms · dynamic programming · binary search · graphs (DFS, BFS, connected components) · prefix sums · Fenwick trees<br/>
 **Currently sharpening:** segment trees with lazy propagation · harder DP
 
 <p align="center">
